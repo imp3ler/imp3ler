@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imp3ler
 - 👀 I’m interested in 3d modeling and java
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,java, and HTML
 - 💞️ I’m looking to collaborate on ANYTHING! :)
 - 📫 How to reach me (discord) imp3ler#4274
 
